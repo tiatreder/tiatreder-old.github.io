@@ -40,3 +40,4 @@ elif monster_choice == 2:
     print(love_survive)
 elif monster_choice == 3:
     print(run_death)
+```
