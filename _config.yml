@@ -1,4 +1,6 @@
 title: Tia Treder
 description: makin' a thing for cs 105
-
 theme: minima
+
+header_pages:
+- about.md
